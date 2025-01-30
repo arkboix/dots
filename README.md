@@ -22,6 +22,15 @@ These are my dotfiles for hyprland.
 
 ## Installation and Dependencies
 
+The install.sh script is available, if you plan on using the script:
+```
+cd ~
+git clone https://github.com/arkboix/dots.git
+cd dots
+chmod +x install.sh
+./install.sh
+```
+
 here is a list of dependencies needed:
 
 ```
