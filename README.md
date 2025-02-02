@@ -34,6 +34,8 @@ chmod +x install.sh
 here is a list of dependencies needed:
 
 ```
+nwg-drawer
+nwg-look
 swaync
 hyprshot
 hypridle
